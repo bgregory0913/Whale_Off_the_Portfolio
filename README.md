@@ -1,6 +1,6 @@
 <h3 align="center">Sentiment Analysis: Comparing VADER and LSTM</h3>
 <p align="center">
-  <a href="ttps://https://github.com/bgregory0913/Whale_Off_the_Portfolio/Images">
+  <a href="ttps://https://github.com/bgregory0913/Whale_Off_the_Portfolio">
     <img src="portfolio-analysis.png" alt="portfolio-analysis" align="center">
   </a>
 </p>
